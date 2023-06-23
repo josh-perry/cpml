@@ -48,7 +48,7 @@ local function hsv_to_color(hsv)
 end
 
 -- color_to_hsv(c)
--- Takes in a normal color and returns a table with the HSV values.
+-- Takes in a normal color and returns a table with the HSV values. aaaaaaaaaaaatest
 local function color_to_hsv(c)
 	local r = c[1]
 	local g = c[2]
