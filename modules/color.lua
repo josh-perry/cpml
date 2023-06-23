@@ -16,7 +16,7 @@ end
 
 -- HSV utilities (adapted from http://www.cs.rit.edu/~ncs/color/t_convert.html)
 -- hsv_to_color(hsv)
--- Converts a set of HSV values to a color. hsv is a table. TEST TEST TEST
+-- Converts a set of HSV values to a color. hsv is a table. TEST TEST TEST test
 -- See also: hsv(h, s, v)
 local function hsv_to_color(hsv)
 	local i
